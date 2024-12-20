@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with getting an internship for Summer 2025.
 - 💬 Ask me about anything
 - 📫 How to reach me: johnathanaye311@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like reading
 -->
