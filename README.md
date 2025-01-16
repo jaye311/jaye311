@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on writing algorithms in Python
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on writing algorithms in Python, solving LeetCode and HackerRank problems in Java.
+- 🌱 I’m currently learning Python and SQL.
 - 👯 I’m looking to collaborate on any coding projects
 - 🤔 I’m looking for help with getting an internship for Summer 2025.
 - 💬 Ask me about anything
