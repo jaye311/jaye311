@@ -1,16 +1,12 @@
 ## Hello 👋
 
-<!--
-**jaye311/jaye311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on writing algorithms in Python, solving LeetCode and HackerRank problems in Java.
-- 🌱 I’m currently learning Python and SQL.
-- 👯 I’m looking to collaborate on any coding projects
-- 🤔 I’m looking for help with getting an internship for Summer 2025.
+- 🔭 I’m currently working on university (SJSU), Responsible Computing Club (RCC) Consulting Ambassador, writing algorithms in Python, solving LeetCode and HackerRank problems in Java.
+- 🌱 I’m currently learning about Bioinformatics, Object Oriented Design, Relational Database Management Systems, Computer Systems, Business Communication, Python, and SQL.
+- 👯 I’m looking to collaborate on any projects related to Computer Science, Coding, Health, Biotechnology/Biomedical/Bioinformatics, Engineering, Science
+- 🤔 I’m looking for help with getting an internship/coop for Summer 2025.
 - 💬 Ask me about anything
 - 📫 How to reach me: johnathanaye311@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like reading
--->
+- ⚡ Fun fact: I like reading 
+
