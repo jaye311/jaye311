@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on any projects related to Computer Science, Coding, Health, Biotechnology/Biomedical/Bioinformatics, Engineering, Science
 - 🤔 I’m looking for help with getting an internship/coop for Winter 2025/Summer 2026.
 - 💬 Ask me about anything
-- 📫 How to reach me: johnathanaye311@gmail.com
+- 📫 How to reach me: johnathanaye311@gmail.com  LinkedIn: https://www.linkedin.com/in/j-aye/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like reading the Bible 
 
