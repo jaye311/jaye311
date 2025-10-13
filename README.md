@@ -8,5 +8,5 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: johnathanaye311@gmail.com  LinkedIn: https://www.linkedin.com/in/j-aye/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like reading the Bible 
+- ⚡ Fun fact: I like reading the Bible, a lot, it's wisdom from above.
 
