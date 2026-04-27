@@ -1,10 +1,10 @@
 ## Hello 👋
 
 
-- 🔭 I’m currently working on university (SJSU, writing algorithms in Python, solving LeetCode and HackerRank problems in Java.
-- 🌱 I’m currently learning about Bioinformatics II, Operating Systems, Programming Paradigms, Computer Architecture, Data Visualization, Information Security, and [Crafting Interpreters](https://craftinginterpreters.com/).
-- 👯 I’m looking to collaborate on any projects related to Computer Science, Coding, Health, Biotechnology/Biomedical/Bioinformatics, Engineering, Science
-- 🤔 I’m looking for help with getting an internship/coop for Winter 2025/Summer 2026.
+- 🔭 I’m currently working on university (SJSU).
+- 🌱 I’m currently learning about Algorithm design and analysis, AI, Chinese and Computer Vision and Formal Languages and Computability [Crafting Interpreters](https://craftinginterpreters.com/).
+- 👯 I’m looking to collaborate on any projects related to Computer Science, Christianity, Coding, Health, Engineering, Science.
+- 🤔 I’m looking for help with .
 - 💬 Ask me about anything
 - 📫 How to reach me: johnathanaye311@gmail.com  LinkedIn: https://www.linkedin.com/in/j-aye/
 - 😄 Pronouns: He/Him
